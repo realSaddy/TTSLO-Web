@@ -5,7 +5,7 @@ The web app for TxtToSL Online. Uses the TxtToSL Online Server (ours)'s API, whi
 
 The app is made in basic HTML, CSS and a tiny bit of JavaScript. It utilizes Material Design, by using [Material Components Web](https://material.io/develop/web/).
 
-### Contributors
+<h3>Thanks</h3>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Oj18"><img src="https://avatars3.githubusercontent.com/u/19228318?v=3" width="100px;" alt="Oj18"/><br /><sub><b>Oj18</b></sub></a><br/></td>
